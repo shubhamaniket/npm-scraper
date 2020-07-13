@@ -41,4 +41,5 @@ node index.js
 Screenshot
 ---------------
 
+<img src="https://github.com/shubhamaniket/npm-scraper/blob/master/screenshot.png"/>
 
